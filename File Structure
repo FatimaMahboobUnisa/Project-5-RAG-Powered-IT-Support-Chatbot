@@ -1,0 +1,6 @@
+.
+├── rag_api.py             # FastAPI backend
+├── Dockerfile             # Containerization
+├── azure-kubernetes.yaml  # AKS deployment
+├── requirements.txt       # Dependencies
+└── chroma_db/             # Preloaded vector database
